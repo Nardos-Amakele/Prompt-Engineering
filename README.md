@@ -1,0 +1,1 @@
+This project is done on Prompt Engineering where 5 techniques were used with integration with Gemini AI free API. The project demonstrates how to impelement the 5 techiniques namely instructional, role prompting, text classification, code generation and reasoning prompting.
